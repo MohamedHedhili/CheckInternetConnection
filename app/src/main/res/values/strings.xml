@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckInternetConnection</string>
+    <string name="Button_name">Connection</string>
+    <string name="Text_View">Check Internet Connection</string>
+</resources>
